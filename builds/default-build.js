@@ -9,6 +9,12 @@ module.exports = {
         path: "/config/examples/Creality/Ender-3/CrealityV422/",
         stable_branch: "release-{{marlin_version}}",
         nightly_branch: "bugfix-2.1.x"
+    },
+    configuration: {
+        enable: [
+            ["Y_BED_SIZE", 500]
+        ]
+        
     }
 };
 
