@@ -12,7 +12,8 @@ module.exports = {
     },
     configuration: {
         enable: [
-            ["Y_BED_SIZE", 500]
+            ["Y_BED_SIZE", 410],
+            ["X_MIN_POS", 35],
         ]
         
     }
