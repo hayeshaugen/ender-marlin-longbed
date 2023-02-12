@@ -16,6 +16,8 @@ module.exports = {
             ["X_BED_SIZE", 200],
             
             ["X_MIN_POS", 35],
+            ["X_MAX_POS", 235],
+            
             ["CUSTOM_MACHINE_NAME", "griddle v0"],
         ]
         
