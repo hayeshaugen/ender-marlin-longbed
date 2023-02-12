@@ -13,6 +13,8 @@ module.exports = {
     configuration: {
         enable: [
             ["Y_BED_SIZE", 410],
+            ["X_BED_SIZE", 200],
+            
             ["X_MIN_POS", 35],
             ["CUSTOM_MACHINE_NAME", "griddle v0"],
         ]
